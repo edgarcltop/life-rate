@@ -1,10 +1,9 @@
-# Roadmaper - an open source Roadmap as Code (RaC) python library
+# Liferate - an open source Roadmap as Code (RaC) python library
 
 ## Purpose
-The purpose of roadmapper python library is used to draw roadmap by using python code. This is the first Roadmap as Code (RaC) library. RaC helps to create and edit roadmap in a more efficient way without having to use any graphical tools that are not always easy to use to create or update a roadmap.
+The purpose of Liferate python app is used to draw roadmap by using python code. This is the first Liferate as Code (RaC) library. RaC helps to create and edit roadmap in a more efficient way without having to use any graphical tools that are not always easy to use to create or update a roadmap.
 
-With git repository like GitHub or Bitbucket, roadmaps created using RaC can be version controlled, track changes and can be easily shared with others.
-
+With git repository like GitHu, roadmaps created using RaC can be version controlled, track changes and can be easily shared with others.
 
 ### Python version requirements:
 * Python 3.10+
@@ -24,16 +23,11 @@ Any feedback or suggestions are welcome. Please feel free to create an issue or 
 ## Installation
 ### Install from PyPI
 ```bash
-pip install roadmapper
+pip install liferate
 ```
 ### Upgrade to the latest version
 If you are running older version of roadmap-generator, you can upgrade to the latest version by running the following command:
 ```bash
-pip install --upgrade roadmapper
+pip install --upgrade liferate
 ```
-
-<hr>
-
-
-<br/>
 <hr>
